@@ -48,7 +48,7 @@
         <p><a href="write.php">글쓰기</a></p>
     <hr>
     <h2>글 검색</h2>
-        <form action="search.php">
+        <form action="search.php" method="post">
             <h3>검색할 키워드를 입력하세요</h3>
             <p>
                 <label for="search">키워드: </label>
@@ -58,7 +58,7 @@
         </form>
     <hr>
     <h2>글 삭제</h2>
-        <form action="search.php">
+        <form action="delete.php" method="post">
             <h3>삭제할 메세지 번호를 입력하세요</h3>
             <p>
                 <label for="msgdel">번호: </label>

@@ -41,7 +41,7 @@
 
         // Close mysqli connection
         mysqli_close($connection);
-        print "<hr/><a href=index.html>Go to Main index page</a>";
+        print "<hr/><a href=index.php>Go to Main index page</a>";
     ?>
 </body>
 </html>
