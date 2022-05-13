@@ -1,0 +1,14 @@
+[
+    {
+        "Term": "html",
+        "description: " : "웹페이지 내용을 전달합니다."
+    },
+    {
+        "Term": "css",
+        "description: " : "웹페이지 모양을 전달합니다."
+    },
+    {
+        "Term": "javascript",
+        "description: " : "웹페이지 동적요소를 전달합니다."
+    }
+]

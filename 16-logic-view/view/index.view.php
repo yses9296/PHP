@@ -1,6 +1,9 @@
 
 <div class="container">
     <header>
-        <h1><?= $model; ?></h1>
+        <h1><?= $title; ?></h1>
     </header>
+    <main>
+        <?= $model; ?>
+    </main>
 </div>
